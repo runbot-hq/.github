@@ -1,10 +1,10 @@
 # runbot-hq
 
-GitHub Actions for self-hosted macOS runners powered by on-device Apple Intelligence and local AI models. No cloud APIs, no API keys, no per-run cost.
+GitHub Actions for self-hosted macOS runners — powered by on-device Apple Intelligence and local AI models. No cloud APIs. No API keys. No per-run cost
 
-> All actions require a self-hosted macOS runner (Apple Silicon). Part of the [RunBot](https://github.com/runbot-hq/run-bot) ecosystem.
+> All actions **requires** a self-hosted macOS runner (Apple Silicon). Part of the [RunBot](https://github.com/runbot-hq/run-bot) ecosystem.
 
-> The actions are composable. Meaning you can mix and match them with other actions from the official GitHub Action Marketplace. I.E: Connect local-ai-cli-actiom with Slack actions and Google Analytics actions and you can build powerful automations that run at zero cost. 
+> The actions are composable — you can mix and match them with any action from the official GitHub Actions Marketplace. For example, combine local-ai-cli-action with Slack or Google Analytics actions to build powerful automations that run at zero cost.
 
 ## Actions
 

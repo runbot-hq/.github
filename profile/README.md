@@ -4,6 +4,8 @@ GitHub Actions for self-hosted macOS runners powered by on-device Apple Intellig
 
 > All actions require a self-hosted macOS runner (Apple Silicon). Part of the [RunBot](https://github.com/runbot-hq/run-bot) ecosystem.
 
+> The actions are composable. Meaning you can mix and match them with other actions from the official GitHub Action Marketplace. I.E: Connect local-ai-cli-actiom with Slack actions and Google Analytics actions and you can build powerful automations that run at zero cost. 
+
 ## Actions
 
 | Action | Description | Author | Downloads |
